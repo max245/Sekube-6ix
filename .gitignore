@@ -1,0 +1,6 @@
+# Log file
+*.log
+
+# Vagrant state
+*.vagrant
+.vagrant
